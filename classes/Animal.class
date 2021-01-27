@@ -1,6 +1,6 @@
 <?php
 class Animal {
-    private $nom;
+    protected $nom;
 
         //Un setter ou mutateur sert à définir
 
